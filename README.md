@@ -1,9 +1,5 @@
 # Jekyll_Test
 
-# layout: page
-title: Cyber Security SOP
-
----
 # SOP Reference for Windows
 
 [Jekyll Now](http://github.com/barryclark/jekyll-now/)
